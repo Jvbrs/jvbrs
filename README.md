@@ -1,7 +1,7 @@
 ### Olá, eu sou o João Vitor 🌑
 - 🧠 Sou formado em Tec. enfermagem com especialização em instrumentação cirúrgica. Estou em busca de me tornar e seguir a carreira de desenvolvedor.
 - ✏️ Estou estudando Analises e desenvolvimento de sistemas | 1° semestre.
-- 🔍 Procurando estágio como desenvolvedor.<br>
+- 🔍 Procurando estágio como desenvolvedor.<br><br><br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-bastos-borges-b1b383257/)
 
 
