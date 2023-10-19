@@ -1,9 +1,8 @@
 ### Hi, welcome to my profile 🌑
-- 🧑‍💻 I'm passionate about working with technology and solving problems, both with software and hardware.
-- 👨‍🚀 I'm fascinated by astronomy.
-- 🔍 Aprendendo cada dia mais sobre a área, procurando me desenvolver em diferentes projetos.<br><br><br>
+- 🧑‍💻 I'm passionate about working with technology and solving problems, both with software and hardware.<br>
+- 👨‍🚀 I'm fascinated by astronomy and music.<br>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-bastos-borges-b1b383257/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-bastos-borges-b1b383257/)<br>
 
 
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/aura/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
