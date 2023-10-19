@@ -7,8 +7,8 @@
 
 ![João Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=jvbrs&show_icons=true&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jvbrs&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jvbrs&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jvbrs&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jvbrs&theme=green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jvbrs&theme=green)
 
 </div>
 
