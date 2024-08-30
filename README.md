@@ -7,7 +7,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jvbrs&theme=merko)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jvbrs&theme=merko&exclude={exclude}) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jvbrs&theme=merko&exclude={exclude})
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jvbrs&theme=merko) 
 
 
