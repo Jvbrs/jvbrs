@@ -1,6 +1,7 @@
 ### Hi, welcome to my profile 🌑
-- 🧑‍💻 I'm passionate about working with technology and solving problems, both with software and hardware.<br>
+- 🧑‍💻 I'm passionate about working with technology and solving problems<br>
 - 👨‍🚀 I'm fascinated by astronomy and music.<br>
+- :microscope: I'm data science and work in TKElevator
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-bastos-borges-b1b383257/)<br>
 
